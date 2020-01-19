@@ -1,3 +1,4 @@
 {
-    close: false
+    close: false,
+    status:0
 }
